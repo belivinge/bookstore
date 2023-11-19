@@ -8,7 +8,9 @@ Beginner Friendly
 4. Project structure
 5. Gorilla mux
 
-- Project structure: PKG->config->app.go
+- Project structure:
+
+                   PKG->config->app.go
                       ->controllers->book-controller
                       ->models->book-go
                       ->routes->bookstore-routes
