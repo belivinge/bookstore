@@ -18,6 +18,8 @@ Beginner Friendly
 
                    CMD->main.go
 
+we can use " mkdir -p pkg/config pkg/controllers pkg/models pkg/routes pkg/utils " to create the folder structure quickly
+
 - Routes: controller funcs
 
                    GetBooks<--/book/<--GET
